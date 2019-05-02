@@ -26,3 +26,24 @@ p.best {
   color: pink;
   font-style: bold;
 }
+
+div.blog-post p {
+  background-color: lightgrey;
+  font-family: cursive;
+}
+
+div.ice-cream p {
+  background-color: skyblue;
+  font-size: 20px;
+  font-family: monospace;
+}
+
+div.about-me {
+  background-color: maroon;
+  color: white;
+  font-size: 30;
+}
+
+div.about-me h3 {
+  color: teal;
+}
